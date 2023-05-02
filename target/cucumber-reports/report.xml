@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="5.771">
+    <testcase classname="Trello API test feature" name="Add a new list to the test board after changing title" time="5.707">
+        <system-out><![CDATA[Given The board exists and contains the correct information.................passed
+When I change the board title to "New Title"................................passed
+And I check that the board name was updated to "New Title"..................passed
+Then I add a list with a name "Demo List Title" to the board................passed
+]]></system-out>
+    </testcase>
+</testsuite>

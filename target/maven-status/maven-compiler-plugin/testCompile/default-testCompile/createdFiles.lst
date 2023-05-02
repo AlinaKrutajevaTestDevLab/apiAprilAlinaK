@@ -1,0 +1,8 @@
+apiAprilAlinaK/domain/Board.class
+apiAprilAlinaK/helpers/TestCaseContext.class
+apiAprilAlinaK/testRunners/TestRunner.class
+apiAprilAlinaK/stepdefinitions/TrelloSteps.class
+apiAprilAlinaK/domain/List.class
+apiAprilAlinaK/constants/ProjectConstants.class
+apiAprilAlinaK/clients/TrelloClient.class
+apiAprilAlinaK/stepdefinitions/Hooks.class
